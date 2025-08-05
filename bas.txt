@@ -1,0 +1,15 @@
+Animal,Fur Type,Sleep Spot,Sleep Noise,Sleep Time,Sleepie?
+Puppy,Fluffy,Bed,Snores,Night,Yes
+Kitten,Silky,Lap,Purring,Day,Yes
+Duckling,Fluffy,Bed,Peep,Night,Yes
+Piglet,Sparse,Straw,Snores,Night,Yes
+Chick,Fluffy,Nest,Peep,Day,Yes
+Lamb,Woolly,Nest,Purring,Day,Yes
+Bunny,Velvety,Bed,Purring,Night,Yes
+Puppy,Fluffy,Straw,Peep,Day,No
+Kitten,Silky,Nest,Snores,Night,No
+Duckling,Fluffy,Lap,Snores,Day,No
+Piglet,Sparse,Lap,Peep,Day,No
+Chick,Fluffy,Lap,Peep,Night,No
+Lamb,Woolly,Bed,Purring,Night,No
+Bunny,Velvety,Nest,Purring,Day,No
